@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<ns1:events
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:ns1='http://willyams.com/event'
+    xsi:schemaLocation='http://willyams.com/event ../../../../target/schemas/event.xsd'>
+    <event>
+	<id></id>
+    </event>
+
+</ns1:events>
